@@ -25,6 +25,14 @@ Cards()
                 imagemCardInicio.className = "imagemCardInicio"
                 imagemCardInicio.src = item.Imagem;
 
+
+                for(i = 1; i=item.Vantagens; i++){
+                    let VantagensVip = document.createElement("p");
+                    VantagensVip.textContent = item
+                    itemInicio.appendChild(VantagensVip)
+                }
+                
+
 //adiciona dentro do produto inicio que vai ficar dentro da section
              produtoInicio.appendChild(itemInicio);
              itemInicio.appendChild(tituloCard);
