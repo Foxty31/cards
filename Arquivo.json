@@ -1,0 +1,40 @@
+{
+    "Cards":[
+        {
+            "nome":"Vip Bronze",
+            "Imagem":"Imagens/Bronze-card.png"
+        },
+        {
+            "nome":"Vip Prata",
+            "Imagem":"Imagens/Silver-card.png",
+            "Vantages":{
+                "1":"Acesso a loja VIP exclusiva",
+                "2":"Sem coldown de teleporte",
+                "3":"Comando /fly",
+                "4":"Kit exclusivo de ativação e kit diário",
+                "5":"10 sethomes liberadas",
+                "6":"Grupo exclusivo de chat VIP no servidor DISCORD",
+                "7":"Tag exclusiva dentro do servidor de Minecraft",
+                "8":"Pode utilizar cores  no chat do jogo",
+                "9":"Possibilidade de mudar a classe ao fim do tempo VIP",
+                "10":"Poderá criar lojab e seta-la pública"
+            }
+        },
+        {
+            "nome":"Vip Ouro",
+            "Imagem":"Imagens/Gold-card.png",
+            "Vantages":{
+                "1":"Acesso a loja VIP exclusiva",
+                "2":"Sem coldown de teleporte",
+                "3":"Comando /fly",
+                "4":"Kit exclusivo de ativação e kit diário",
+                "5":"10 sethomes liberadas",
+                "6":"Grupo exclusivo de chat VIP no servidor DISCORD",
+                "7":"Tag exclusiva dentro do servidor de Minecraft",
+                "8":"Pode utilizar cores  no chat do jogo",
+                "9":"Possibilidade de mudar a classe ao fim do tempo VIP",
+                "10":"Poderá criar lojab e seta-la pública"
+            }
+        }
+    ]
+}
